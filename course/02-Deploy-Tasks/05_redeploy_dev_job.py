@@ -8,7 +8,7 @@
 
 # MAGIC %md
 # MAGIC
-# MAGIC ## Task change the name of amount to full_amount in revenue_per_inhabitant data set
+# MAGIC ## Task: change the name of amount to full_amount in revenue_per_inhabitant data set
 # MAGIC
 # MAGIC One way is to use the `alias()` function in pyspark for renaming.
 # MAGIC

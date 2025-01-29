@@ -47,7 +47,7 @@
 
 # MAGIC %md
 # MAGIC
-# MAGIC Answer here...
+# MAGIC A job represents a set of instructions, while a job run is the executing result of a job.
 
 # COMMAND ----------
 
@@ -60,4 +60,6 @@
 
 # MAGIC %md
 # MAGIC
-# MAGIC Answer here...
+# MAGIC acme_transport_taxinyc_prep_dev_havardolsen_featgh8615bjerkvik_4c6799ab
+# MAGIC
+# MAGIC Looks like it is using the orgname + the current foldername + environment passed to autojob function + unity catalog
